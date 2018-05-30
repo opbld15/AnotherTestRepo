@@ -20,7 +20,7 @@
   "notification_subscribers": [
     "v-bizhou@microsoft.com"
   ],
-  "sync_notification_subscribers": ["zhoubin09@beyondsoft.com"],
+  "sync_notification_subscribers": ["cpebysdev@microsoft.com"],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
